@@ -19,9 +19,8 @@ An intelligent customer support ticket processing system implementing four key a
 
 ## Git Flow
 
-- `main`: Stable production code
+- `master`: Stable production code
 - `develop`: Active development branch
-- Feature branches: Created from `develop`
 
 ## Output Example
 Processing Ticket #1
